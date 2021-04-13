@@ -49,7 +49,7 @@ export default function KarachiRamazanTimings() {
       <AppBar Title="Rahim Yar Khan Ramzan Timings 2021"/>
       <center style={{ marginTop: 10, marginBottom: 10 }}>
         <div ref={ref}>
-          <h1>Sehr & Iftar Timings Calender for Rahim Yar Khan 2020</h1>
+          <h1>Sehr & Iftar Timings Calender for Rahim Yar Khan 2021</h1>
           <TableContainer component={Paper} >
             <Table className={classes.table} aria-label="customized table">
               <TableHead>

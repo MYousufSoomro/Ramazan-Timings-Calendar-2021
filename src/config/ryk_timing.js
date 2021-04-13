@@ -105,7 +105,7 @@ const ryk_timing = [
     "Ramadan": 18,
     "Date": "01 May 2021",
     "SEHR": "04:13 AM",
-    "IFTAR": "06:56 PM"
+    "IFTAR": "06:55 PM"
   },
   {
     "Ramadan": 19,

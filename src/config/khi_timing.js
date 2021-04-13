@@ -3,7 +3,7 @@ const khi_timing = [
     "Ramadan": 1,
     "Date": "14 April 2021",
     "SEHR": "04:52 AM",
-    "IFTAR": "06:55 PM"
+    "IFTAR": "06:54 PM"
   },
   {
     "Ramadan": 2,
@@ -104,14 +104,14 @@ const khi_timing = [
   {
     "Ramadan": 18,
     "Date": "01 May 2021",
-    "SEHR": "04:24 AM",
-    "IFTAR": "07:08 PM"
+    "SEHR": "04:35 AM",
+    "IFTAR": "07:02 PM"
   },
   {
     "Ramadan": 19,
     "Date": "02 May 2021",
-    "SEHR": "04:35 AM",
-    "IFTAR": "07:02 PM"
+    "SEHR": "04:34 AM",
+    "IFTAR": "07:03 PM"
   },
   {
     "Ramadan": 20,
